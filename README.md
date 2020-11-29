@@ -14,3 +14,10 @@ Day 2 Task:
 Write a javascript function with arguments that squares number.  
 Write a JavaScript function which returns random 6 digit numbers .
 Write a JavaScript function which display type and version of browser using alert.
+
+
+Day 3 Task:
+
+secondMax.js
+squareDigits.js
+repeatNum.js
