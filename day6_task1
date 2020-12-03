@@ -1,6 +1,6 @@
-Array.prototype.befindobject = function (propertyName) {
+Array.prototype.befindobject = function(propertyName) {
   const propertyValue = [];
-  this.map(function (object) {
+  this.map(function (object){
     propertyValue.push(object[propertyName]);
   });
   return propertyValue;
